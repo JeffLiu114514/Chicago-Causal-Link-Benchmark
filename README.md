@@ -1,7 +1,7 @@
 Chicago Causal Link Benchmark
 ==============================================
 
-This is an open-source benchmark for evaluating causal link discovery. All datasets used in the benchmark are from [Chicago Data Portal](https://data.cityofchicago.org/). This benchmark is a part of our contribution in our HILDA@SIGMOD 2024 paper "Causal Dataset Discovery with Large Language Models"(in submission). When using the benchmark, make sure to refer to it as follows:
+This is an open-source benchmark for evaluating causal link discovery. All datasets used in the benchmark are from [Chicago Data Portal](https://data.cityofchicago.org/). This benchmark is a part of our contribution to our HILDA@SIGMOD 2024 paper "Causal Dataset Discovery with Large Language Models". When using the benchmark, make sure to refer to it as follows:
 
 ```TeX
 @inproceedings{liu2024causallink,
